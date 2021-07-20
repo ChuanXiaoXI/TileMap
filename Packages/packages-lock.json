@@ -85,13 +85,6 @@
       "dependencies": {},
       "url": "https://packages-v2.unity.cn"
     },
-    "com.unity.plasticscm-cn": {
-      "version": "1.2.1-preview",
-      "depth": 0,
-      "source": "registry",
-      "dependencies": {},
-      "url": "https://packages-v2.unity.cn"
-    },
     "com.unity.purchasing": {
       "version": "3.2.2",
       "depth": 0,

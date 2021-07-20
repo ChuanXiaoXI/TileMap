@@ -11,6 +11,18 @@ TextureImporter:
   - first:
       213: 6451264694632907309
     second: wall_2
+  - first:
+      213: 6933618418553894829
+    second: wall_3
+  - first:
+      213: -282635231382982036
+    second: wall_4
+  - first:
+      213: 8271096184780980891
+    second: wall_5
+  - first:
+      213: -5381153769289946764
+    second: wall_6
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -182,6 +194,90 @@ TextureImporter:
       bones: []
       spriteID: d220d9b3f0f778950800000000000000
       internalID: 6451264694632907309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_3
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 43
+        height: 34
+      alignment: 9
+      pivot: {x: 0.4883721, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7b20e3739293060800000000000000
+      internalID: 6933618418553894829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_4
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 43
+        height: 34
+      alignment: 9
+      pivot: {x: 0.4883721, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62386821c0e31cf0800000000000000
+      internalID: -282635231382982036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_5
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 43
+        height: 34
+      alignment: 9
+      pivot: {x: 0.4883721, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9285fc6826d8c270800000000000000
+      internalID: 8271096184780980891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_6
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 5
+        height: 69
+      alignment: 9
+      pivot: {x: 0.4, y: 0.057971016}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479e7bb482d4255b0800000000000000
+      internalID: -5381153769289946764
       vertices: []
       indices: 
       edges: []
