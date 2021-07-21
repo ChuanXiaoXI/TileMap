@@ -59,3 +59,6 @@ TagManager:
   - name: Player
     uniqueID: 1333914767
     locked: 0
+  - name: Rim
+    uniqueID: 2615698993
+    locked: 0
