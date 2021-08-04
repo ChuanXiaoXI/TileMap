@@ -47,12 +47,6 @@ TagManager:
   - name: Misc
     uniqueID: 2653961115
     locked: 0
-  - name: Bg_Enviroment
-    uniqueID: 1600691829
-    locked: 0
-  - name: Bg_Indoor
-    uniqueID: 4069975675
-    locked: 0
   - name: Indoor
     uniqueID: 3483285215
     locked: 0

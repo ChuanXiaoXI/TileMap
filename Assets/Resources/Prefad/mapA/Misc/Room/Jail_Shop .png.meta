@@ -1,0 +1,972 @@
+fileFormatVersion: 2
+guid: a04ddc3d6b5e27f4b9a9986cb95ca120
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6571137704836312587
+    second: Jail_Shop _0
+  - first:
+      213: 9082491322260413421
+    second: Jail_Shop _1
+  - first:
+      213: -7545211636898403464
+    second: Jail_Shop _2
+  - first:
+      213: -7993923775989277402
+    second: Jail_Shop _3
+  - first:
+      213: -358557548681742001
+    second: Jail_Shop _4
+  - first:
+      213: 8321035378317550060
+    second: Jail_Shop _5
+  - first:
+      213: 3335943207676945611
+    second: Jail_Shop _6
+  - first:
+      213: -8091763418102681101
+    second: Jail_Shop _7
+  - first:
+      213: 6944861089147856741
+    second: Jail_Shop _8
+  - first:
+      213: 4090222126040363154
+    second: Jail_Shop _9
+  - first:
+      213: 6113692065252461784
+    second: Jail_Shop _10
+  - first:
+      213: -4285156773355724167
+    second: Jail_Shop _11
+  - first:
+      213: -1594113081637353744
+    second: Jail_Shop _12
+  - first:
+      213: 4446453383054728630
+    second: Jail_Shop _13
+  - first:
+      213: 6405886078754559576
+    second: Jail_Shop _14
+  - first:
+      213: -2577493479023782506
+    second: Jail_Shop _15
+  - first:
+      213: 60214272515854805
+    second: Jail_Shop _16
+  - first:
+      213: 7033514343039857530
+    second: Jail_Shop _17
+  - first:
+      213: -1915273690246200438
+    second: Jail_Shop _18
+  - first:
+      213: 4314990953459911057
+    second: Jail_Shop _19
+  - first:
+      213: -8173489449072322119
+    second: Jail_Shop _20
+  - first:
+      213: -2089719538680929261
+    second: Jail_Shop _21
+  - first:
+      213: -1226212779781577902
+    second: Jail_Shop _22
+  - first:
+      213: 8555788538301997380
+    second: Jail_Shop _23
+  - first:
+      213: -2972167912692256305
+    second: Jail_Shop _24
+  - first:
+      213: -291393294209813518
+    second: Jail_Shop _25
+  - first:
+      213: -1853082919576989868
+    second: Jail_Shop _26
+  - first:
+      213: -9157272066452712233
+    second: Jail_Shop _27
+  - first:
+      213: 6033385114837254085
+    second: Jail_Shop _28
+  - first:
+      213: 1449537789480407577
+    second: Jail_Shop _29
+  - first:
+      213: -4631124755817246107
+    second: Jail_Shop _30
+  - first:
+      213: -3852059547935922622
+    second: Jail_Shop _31
+  - first:
+      213: 3659106060595899226
+    second: Jail_Shop _32
+  - first:
+      213: -1134461018854543113
+    second: Jail_Shop _33
+  - first:
+      213: -6690386481358208793
+    second: Jail_Shop _34
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jail_Shop _0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 221
+        width: 43
+        height: 41
+      alignment: 9
+      pivot: {x: 0.4883721, y: 0.07317073}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f15e05a211aec4a0800000000000000
+      internalID: -6571137704836312587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jail_Shop _1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 221
+        width: 43
+        height: 43
+      alignment: 9
+      pivot: {x: 0.4883721, y: 0.069767445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb56ea8cbd7b0e70800000000000000
+      internalID: 9082491322260413421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jail_Shop _2
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 221
+        width: 43
+        height: 41
+      alignment: 9
+      pivot: {x: 0.4883721, y: 0.07317073}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87be6831ef50a4790800000000000000
+      internalID: -7545211636898403464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jail_Shop _3
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 221
+        width: 43
+        height: 41
+      alignment: 9
+      pivot: {x: 0.4883721, y: 0.07317073}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d1c9aeda0ef0190800000000000000
+      internalID: -7993923775989277402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jail_Shop _4
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 221
+        width: 43
+        height: 41
+      alignment: 9
+      pivot: {x: 0.4883721, y: 0.07317073}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f493a472fc5260bf0800000000000000
+      internalID: -358557548681742001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jail_Shop _5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 142
+        width: 19
+        height: 60
+      alignment: 9
+      pivot: {x: 0.47368422, y: 0.050000004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1631007914a7370800000000000000
+      internalID: 8321035378317550060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jail_Shop _6
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 142
+        width: 19
+        height: 60
+      alignment: 9
+      pivot: {x: 0.47368422, y: 0.050000004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4267c3ca6ab4e20800000000000000
+      internalID: 3335943207676945611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jail_Shop _7
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 142
+        width: 19
+        height: 60
+      alignment: 9
+      pivot: {x: 0.47368422, y: 0.050000004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f13d711b0844bf80800000000000000
+      internalID: -8091763418102681101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jail_Shop _8
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 142
+        width: 19
+        height: 60
+      alignment: 9
+      pivot: {x: 0.47368422, y: 0.050000004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56727197d5a116060800000000000000
+      internalID: 6944861089147856741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jail_Shop _9
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 142
+        width: 19
+        height: 60
+      alignment: 9
+      pivot: {x: 0.47368422, y: 0.050000004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290341b4a5363c830800000000000000
+      internalID: 4090222126040363154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jail_Shop _10
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 162
+        width: 41
+        height: 50
+      alignment: 9
+      pivot: {x: 0.48780486, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc4f77aa8238d450800000000000000
+      internalID: 6113692065252461784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jail_Shop _11
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 162
+        width: 54
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06818182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972e54d4e901884c0800000000000000
+      internalID: -4285156773355724167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jail_Shop _12
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 75
+        width: 23
+        height: 46
+      alignment: 9
+      pivot: {x: 0.47826087, y: 0.06521739}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6c335299290e9e0800000000000000
+      internalID: -1594113081637353744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jail_Shop _13
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 75
+        width: 42
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd9f472bc9f4bd30800000000000000
+      internalID: 4446453383054728630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jail_Shop _14
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 95
+        width: 40
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.107142866}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85619c3e27746e850800000000000000
+      internalID: 6405886078754559576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jail_Shop _15
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 95
+        width: 6
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.050000004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695d6e34657ea3cd0800000000000000
+      internalID: -2577493479023782506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jail_Shop _16
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 95
+        width: 26
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13636364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d157b3df8ce5d000800000000000000
+      internalID: 60214272515854805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jail_Shop _17
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 95
+        width: 6
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.078947365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a737183a7001c9160800000000000000
+      internalID: 7033514343039857530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jail_Shop _18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 54
+        width: 43
+        height: 41
+      alignment: 9
+      pivot: {x: 0.4883721, y: 0.07317073}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83493de9b49b65e0800000000000000
+      internalID: -1915273690246200438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jail_Shop _19
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 54
+        width: 23
+        height: 41
+      alignment: 9
+      pivot: {x: 0.47826087, y: 0.07317073}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199800e096de1eb30800000000000000
+      internalID: 4314990953459911057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jail_Shop _20
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 54
+        width: 23
+        height: 41
+      alignment: 9
+      pivot: {x: 0.47826087, y: 0.07317073}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b914aca6aee19e80800000000000000
+      internalID: -8173489449072322119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jail_Shop _21
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 56
+        width: 26
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314eab0c623dff2e0800000000000000
+      internalID: -2089719538680929261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jail_Shop _22
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 56
+        width: 16
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253231a39fd9bfee0800000000000000
+      internalID: -1226212779781577902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jail_Shop _23
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 56
+        width: 16
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20000002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44169d658544cb670800000000000000
+      internalID: 8555788538301997380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jail_Shop _24
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 56
+        width: 19
+        height: 13
+      alignment: 9
+      pivot: {x: 0.47368422, y: 0.23076925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1f927d70db0c6d0800000000000000
+      internalID: -2972167912692256305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jail_Shop _25
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 56
+        width: 38
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16129032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f371b0c753c4fbf0800000000000000
+      internalID: -291393294209813518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jail_Shop _26
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 56
+        width: 40
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20689654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f054717e68846e0800000000000000
+      internalID: -1853082919576989868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jail_Shop _27
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 45
+        height: 33
+      alignment: 9
+      pivot: {x: 0.51111114, y: 0.15151516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d49a77a295dae080800000000000000
+      internalID: -9157272066452712233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jail_Shop _28
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 2
+        width: 45
+        height: 33
+      alignment: 9
+      pivot: {x: 0.4888889, y: 0.15151516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cff003bbc3eab350800000000000000
+      internalID: 6033385114837254085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jail_Shop _29
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 2
+        width: 45
+        height: 33
+      alignment: 9
+      pivot: {x: 0.4888889, y: 0.15151516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9121c7680facd1410800000000000000
+      internalID: 1449537789480407577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jail_Shop _30
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 2
+        width: 45
+        height: 33
+      alignment: 9
+      pivot: {x: 0.4888889, y: 0.121212125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562def24290fabfb0800000000000000
+      internalID: -4631124755817246107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jail_Shop _31
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1
+        width: 45
+        height: 34
+      alignment: 9
+      pivot: {x: 0.4888889, y: 0.14705883}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246a0af004cba8ac0800000000000000
+      internalID: -3852059547935922622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jail_Shop _32
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 0
+        width: 16
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14814815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b2c494391c7c230800000000000000
+      internalID: 3659106060595899226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jail_Shop _33
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 2
+        width: 18
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0b5a7c6b59140f0800000000000000
+      internalID: -1134461018854543113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jail_Shop _34
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 2
+        width: 14
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.107142866}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0819041f8f623a0800000000000000
+      internalID: -6690386481358208793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
